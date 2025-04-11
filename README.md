@@ -29,7 +29,7 @@
 - 📘 [***hubnig/Delivery***](https://github.com/hubnig/delivery2025) <br/>
   Delivery items with forms and personal account 
 - 📙 [***hubnig/CoursePlatform***](https://github.com/hubnig/shalfey-course) <br/>
-  It is a knowledge-sharing platform where experts create online courses and users get access to high-quality education in various fields.
+  It is a knowledge-sharing platform where experts create online courses and users get access to education in various fields.
 - 📒 [***hubnig/Galary***](https://github.com/hubnig/galary) <br/>
   Beautiful galary on HTML, CSS and JS  
 
