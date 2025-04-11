@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi! 👋 I'm Danya, Intern Frontend developer💡</h1>
+<h1 align="center">Hello! 👋 I'm Danya, Beginning Frontend Dev.💡</h1>
 
 ###
 
