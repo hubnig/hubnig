@@ -9,15 +9,9 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/derzkiynigger" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="mailto:virginnigger@mail.ru" target="_blank">
-    <img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white" height="25" alt="mail logo"  />
-  </a>
-  <a href="https://github.com/hubnig" target="_blank">
-    <img src="https://img.shields.io/github/followers/hubnig?label=Followers&style=social" height="25" alt="telegram logo"  />
-  </a>
+  <a href="https://t.me/derzkiynigger"><img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF"></a>
+  <a href="https://vk.com/derzkiynigger"><img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=FFFF"></a>
+  <a href="mailto:virginnigger@mail.ru"><img src="https://img.shields.io/badge/Mail-0000FF?style=for-the-badge&logo=Mail.Ru&logoColor=FFFF"></a>
 </div>
 
 ###
@@ -26,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Я начинающий фронтенд-разработчик, выпускник направления «Информационные системы и технологии». Создаю проекты на React, углубляюсь в Next и мир современной вёрстки, а в свободное время играю в игры и пересматриваю аниме. Верю, что код — это магия, которая соединяет логику и креатив, поэтому учусь каждый день и мечтаю оживить свои идеи в крутых интерфейсах. Давай общаться! ✨</p>
+<p align="left">✨ Я начинающий фронтенд-разработчик, выпускник университета направления «Информационные системы и технологии». Создаю проекты на React, углубляюсь в Next и мир современной вёрстки, а в свободное время играю в игры и пересматриваю аниме. Верю, что код — это магия, которая соединяет логику и креатив, поэтому учусь каждый день и мечтаю оживить свои идеи в крутых интерфейсах. Давай общаться! ✨</p>
 
 ### 📚 Projects:
 
@@ -50,6 +44,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="40" alt="redux logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="ts logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
@@ -65,6 +61,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="40" alt="redis logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" height="40" alt="eslint logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
   <img width="12" />
