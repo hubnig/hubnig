@@ -1,16 +1,89 @@
-## Hi there 👋
+<div align="center">
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
 
-<!--
-**hubnig/hubnig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="center">Hi! 👋 I'm Danya, Intern Frontend developer💡</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <a href="https://t.me/derzkiynigger" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="mailto:virginnigger@mail.ru" target="_blank">
+    <img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white" height="25" alt="mail logo"  />
+  </a>
+  <a href="https://github.com/hubnig" target="_blank">
+    <img src="https://img.shields.io/github/followers/hubnig?label=Followers&style=social" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">👩‍💻 About me: </h3>
+
+###
+
+<p align="left">✨ Я начинающий фронтенд-разработчик, выпускник направления «Информационные системы и технологии». Создаю проекты на React, углубляюсь в Next и мир современной вёрстки, а в свободное время играю в игры и пересматриваю аниме. Верю, что код — это магия, которая соединяет логику и креатив, поэтому учусь каждый день и мечтаю оживить свои идеи в крутых интерфейсах. Давай общаться! ✨</p>
+
+### Projects:
+
+  
+- 📗 [***hubnig/ReactAnimeShop***](https://github.com/hubnig/react-animeshop) <br/>
+  Online store with anime clothes
+- 📘 [***hubnig/Delivery***](https://github.com/hubnig/delivery2025) <br/>
+  Delivery items with forms and personal account 
+- 📙 [***hubnig/CoursePlatform***](https://github.com/hubnig/shalfey-course) <br/>
+  It is a knowledge-sharing platform where experts create online courses and users get access to high-quality education in various fields.
+- 📒 [***hubnig/Galary***](https://github.com/hubnig/galary) <br/>
+  Beautiful galary on HTML, CSS and JS  
+<br/>
+
+### 🛠 Stack:
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="ts logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongo logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="40" alt="redis logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo" />
+</div>
+
+###
+
+### 🔥 Cтатистика:
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hubnig&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hubnig&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
