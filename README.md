@@ -28,9 +28,8 @@
 
 <p align="left">✨ Я начинающий фронтенд-разработчик, выпускник направления «Информационные системы и технологии». Создаю проекты на React, углубляюсь в Next и мир современной вёрстки, а в свободное время играю в игры и пересматриваю аниме. Верю, что код — это магия, которая соединяет логику и креатив, поэтому учусь каждый день и мечтаю оживить свои идеи в крутых интерфейсах. Давай общаться! ✨</p>
 
-### Projects:
+### 📚 Projects:
 
-  
 - 📗 [***hubnig/ReactAnimeShop***](https://github.com/hubnig/react-animeshop) <br/>
   Online store with anime clothes
 - 📘 [***hubnig/Delivery***](https://github.com/hubnig/delivery2025) <br/>
@@ -39,7 +38,6 @@
   It is a knowledge-sharing platform where experts create online courses and users get access to high-quality education in various fields.
 - 📒 [***hubnig/Galary***](https://github.com/hubnig/galary) <br/>
   Beautiful galary on HTML, CSS and JS  
-<br/>
 
 ### 🛠 Stack:
 
