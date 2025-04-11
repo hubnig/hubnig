@@ -73,7 +73,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo" />
 </div>
 
-### 🔥 Cтатистика:
+### 🔥 Statistics:
 
 ###
 
